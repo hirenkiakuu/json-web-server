@@ -1,16 +1,92 @@
 {
     "goods": [
         {
-            "id": 1,
-            "name": "good1"
+            "id": "1",
+            "category": "pizza",
+            "title": "С креветками и трюфелями",
+            "description": "lorem ipsum",
+            "price": 600,
+            "img": "img/pizza1.png"
         },
         {  
-            "id": 2,
-            "name": "good2"
+            "id": "2",
+            "category": "pizza",
+            "title": "4 сыра",
+            "description": "lorem ipsum",
+            "price": 450,
+            "img": "img/pizza2.png"
         },
         {
-            "id": 3,
-            "name": "good3"
+            "id": "3",
+            "category": "pizza",
+            "title": "С беконом",
+            "description": "lorem ipsum",
+            "price": 560,
+            "img": "img/pizza3.png"
+        }, 
+        {
+            "id": "4",
+            "category": "pizza",
+            "title": "С грибами",
+            "description": "lorem ipsum",
+            "price": 600,
+            "img": "img/pizza4.png"
+        },
+        {
+            "id": "5",
+            "category": "pizza",
+            "title": "Деревенская",
+            "description": "lorem ipsum",
+            "price": 700,
+            "img": "img/pizza2.png"
+        },
+        {
+            "id": "6",
+            "category": "another",
+            "title": "Спагетти",
+            "description": "lorem ipsum",
+            "price": 350,
+            "img": "img/dish1.png"
+        },
+        {
+            "id": "7",
+            "category": "another",
+            "title": "Что то вкусное",
+            "description": "lorem ipsum",
+            "price": 400,
+            "img": "img/dish2.png"
+        },
+        {
+            "id": "8",
+            "category": "another",
+            "title": "Что то вкусное",
+            "description": "lorem ipsum",
+            "price": 250,
+            "img": "img/dish3.png"
+        },
+        {
+            "id": "9",
+            "category": "another",
+            "title": "Цезарь",
+            "description": "lorem ipsum",
+            "price": 400,
+            "img": "img/dish4.png"
+        },
+        {
+            "id": "10",
+            "category": "soup",
+            "title": "Томям",
+            "description": "lorem ipsum",
+            "price": 640,
+            "img": "img/tomyum.png"
+        },
+        {
+            "id": "11",
+            "category": "soup",
+            "title": "С креветками",
+            "description": "lorem ipsum",
+            "price": 550,
+            "img": "img/onemoresoup.png"
         }
     ]
 }
